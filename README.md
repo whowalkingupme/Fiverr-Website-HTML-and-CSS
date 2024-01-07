@@ -12,7 +12,7 @@ Throughout the post, we’ll explore a variety of HTML tags and CSS properties t
 To create a responsive Fiverr-inspired Homepage using HTML and CSS, follow these step-by-step instructions:
 
 First, create a folder with any name you like. Then, put the necessary files inside it.
-Create a file called index.html to serve as the main file.
-Create a file called style.css for the CSS code.
-Download and place the Images folder in your project directory. This folder includes the Fiverr logo and the hero background image.
+* Create a file called index.html to serve as the main file.
+* Create a file called style.css for the CSS code.
+* Download and place the Images folder in your project directory. This folder includes the Fiverr logo and the hero background image.
 
