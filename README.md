@@ -1,6 +1,6 @@
 # How to Create Responsive Fiverr Website in HTML and CSS #
 
-
+![How-to-Create-Responsive-Fiverr-Website-in-HTML-CSS-and-JavaScript](https://github.com/whowalkingupme/Fiverr-Website-HTML-and-CSS/assets/46256884/28c4492a-94b6-4409-8534-13678e0c46c9)
 
 If you’re a beginner web developer, creating a Fiverr website using HTML and CSS is a valuable opportunity to gain real-world experience. By recreating the design of a well-established platform like Fiverr, you’ll not only develop practical skills in HTML and CSS but also demonstrate your ability to replicate existing designs.
 
@@ -10,7 +10,7 @@ Throughout the post, we’ll explore a variety of HTML tags and CSS properties t
 
 # Video Tutorial of Fiverr Website in HTML and CSS #
 
-<iframe width="696" height="393" src="https://www.youtube.com/embed/SbjpCH0sCqg" title="Create A Fiverr Website Clone in HTML CSS and JavaScript | Responsive Website HTML CSS &amp; JavaScript" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![How-to-Create-Responsive-Fiverr-Website-in-HTML-CSS-and-JavaScript](https://github.com/whowalkingupme/Fiverr-Website-HTML-and-CSS/assets/46256884/28c4492a-94b6-4409-8534-13678e0c46c9)](https://www.youtube.com/embed/SbjpCH0sCqg)
 
 
 # Steps To Create Fiverr Website in HTML and CSS #
